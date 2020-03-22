@@ -24,3 +24,9 @@ washington.csv
 the github platform as well as many other websites were used in order for me to complete my projects throughout this course
 
 i thank my family and friends for the support
+
+
+
+RECOMMENDATION
+
+I encourage many people to take this course as they will never be the same after completing it
