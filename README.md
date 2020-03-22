@@ -23,3 +23,4 @@ washington.csv
 ### Credits
 the github platform as well as many other websites were used in order for me to complete my projects throughout this course
 
+i thank my family and friends for the support
